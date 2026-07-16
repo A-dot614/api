@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'paths' => ['api/movies'],
+    'paths' => ['api/movies', 'api/movies/*'],
 
     'allowed_methods' => ['*'],
 
